@@ -1,4 +1,4 @@
-# Young Successful Club (YSC)
+# Young Scandinavians Club (YSC)
 
 Welcome to the YSC GitHub organization! We're a community-driven club building modern, scalable web applications to power club activities, memberships, events, and financial management.
 
