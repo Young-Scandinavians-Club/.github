@@ -33,7 +33,7 @@ We build with modern, production-ready technologies:
 
 ## 📦 Key Repositories
 
-### [ysc-redesign-ex](https://github.com/yourusername/ysc-redesign-ex)
+### [ysc.org](https://github.com/Young-Scandinavians-Club/ysc.org)
 
 The main web application powering the YSC platform. This comprehensive Phoenix application handles everything from user authentication to event ticketing to financial management.
 
